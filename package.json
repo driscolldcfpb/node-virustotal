@@ -1,6 +1,6 @@
 {
   "name": "node-virustotal",
-  "version": "2.4.23",
+  "version": "2.4.24",
   "description": "An implementation of the Virustotal API for Node.js",
   "main": "code.js",
   "scripts": {
@@ -35,7 +35,7 @@
 		"compressjs": "^1.0.3",
     "tar": "^2.2.1",
     "emailjs": "^1.0.8",
-    "mail-notifier": "git+https://github.com/driscolldcfpb/nodejs-mail-notifier#0.3.02",
+    "mail-notifier": "git+https://github.com/driscolldcfpb/nodejs-mail-notifier#0.3.03",
     "shelljs": "^0.7.0"
   },
   "preferGlobal": "true",
